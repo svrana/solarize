@@ -3,6 +3,16 @@ Solarize
 
 A gnome-terminal tool to use the Solarized theme on Ubuntu.
 
+Dependencies
+------------
+
+1. gnome-terminal
+2. dircolors
+
+If you don't have them installed on your machine, run this:
+
+    sudo apt-get install dircolors gnome-terminal
+
 Usage
 -----
 
