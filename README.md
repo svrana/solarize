@@ -8,7 +8,7 @@ Usage
 
 Clone this repository
 
-    git clone blah ~/.solarized
+    git clone https://github.com/gmodarelli/solarize.git ~/.solarized
 
 Make solarize.sh executable
 
