@@ -25,9 +25,9 @@ if [ "$1" != "" ]; then
       ;;
     dark )
       theme_command="$theme_command/dark"
-      gnome_command="$gnome_command/set_dark.sh"
+      #gnome_command="$gnome_command/set_dark.sh"
       eval `$theme_command`
-      $gnome_command
+      #$gnome_command
       ;;
     * )
       echo "Usage: solarize (dark|light)" ;;
